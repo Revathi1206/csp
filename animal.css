@@ -1,0 +1,196 @@
+body {
+  font-family: "Russo One", sans-serif;
+}
+h1 {
+  margin-left: 40%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+h2 {
+  background-color: rgb(172, 76, 76);
+  margin-left: 50%;
+}
+h3 {
+  color: blue;
+  margin-left: 38%;
+}
+.background {
+  background: linear-gradient(to right, rgb(187, 140, 140), rgb(147, 147, 205));
+}
+.img1 {
+  height: 400px;
+  width: 500px;
+  border-radius: 25px;
+  border: 5px solid rgb(30, 14, 31);
+  box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.6);
+  margin-left: 30%;
+}
+.let {
+  font-family: "Climate Crisis", cursive;
+}
+.cows {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  height: 2000px;
+  width: 1190px;
+  display: none;
+  background: linear-gradient(to right, rgb(209, 155, 74), rgb(138, 80, 80));
+
+  backdrop-filter: blur(20px);
+
+  box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.6);
+  text-align: center;
+  font-family: "Russo One", sans-serif;
+}
+.cross1 {
+  background-color: rgb(201, 62, 62);
+  height: 30px;
+  width: 30px;
+  border-radius: 25px;
+  position: absolute;
+  border: 1px black solid;
+  top: 2%;
+  right: 2%;
+}
+.img2 {
+  height: 400px;
+  width: 500px;
+  border-radius: 25px;
+  border: 5px solid rgb(42, 18, 42);
+  box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.6);
+  margin-left: 30%;
+}
+.dogs {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  height: 2000px;
+  width: 1300px;
+  display: none;
+  background: linear-gradient(to right, rgb(129, 128, 127), rgb(123, 111, 111));
+  backdrop-filter: blur(20px);
+
+  box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.6);
+  text-align: center;
+  font-family: "Russo One", sans-serif;
+}
+.img3 {
+  height: 400px;
+  width: 500px;
+  border-radius: 25px;
+  border: 5px solid rgb(36, 16, 36);
+  box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.6);
+  margin-left: 30%;
+}
+.buff {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  height: 2000px;
+  width: 1300px;
+  display: none;
+  background: linear-gradient(to right, rgb(181, 127, 73), rgb(114, 113, 113));
+  backdrop-filter: blur(20px);
+
+  box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.6);
+  text-align: center;
+  font-family: "Russo One", sans-serif;
+}
+.cross2 {
+  background-color: rgb(201, 62, 62);
+  height: 30px;
+  width: 30px;
+  border-radius: 25px;
+  position: absolute;
+  border: 1px black solid;
+  top: 2%;
+  right: 2%;
+}
+.cross3 {
+  background-color: rgb(201, 62, 62);
+  height: 30px;
+  width: 30px;
+  border-radius: 25px;
+  position: absolute;
+  border: 1px black solid;
+  top: 2%;
+  right: 2%;
+}
+.right1 {
+  position: absolute;
+  right: 2%;
+  top: 7%;
+  border: 10px double steelblue;
+  border-radius: 15px;
+}
+.pre1 {
+  font-family: "Russo One", sans-serif;
+  text-align: left;
+  position: absolute;
+  top: 5%;
+  line-height: 10px;
+  font-size: 15px;
+}
+.pre2 {
+  font-family: "Russo One", sans-serif;
+  text-align: left;
+  position: absolute;
+  top: 20%;
+  left: 35%;
+  line-height: 10px;
+  font-size: 15px;
+}
+.pre3 {
+  font-family: "Russo One", sans-serif;
+  text-align: left;
+  position: absolute;
+  top: 35%;
+  line-height: 10px;
+  font-size: 15px;
+}
+.left1 {
+  border: 10px double steelblue;
+  border-radius: 15px;
+  position: absolute;
+  right: 115%;
+  top: 15%;
+}
+.right2 {
+  position: absolute;
+  left: 110%;
+  top: 42%;
+  border: 10px double steelblue;
+  border-radius: 15px;
+}
+.pre4 {
+  font-family: "Russo One", sans-serif;
+  text-align: left;
+  position: absolute;
+  top: 55%;
+  left: 40%;
+  line-height: 10px;
+  font-size: 15px;
+}
+.left2 {
+  border: 10px double steelblue;
+  border-radius: 15px;
+  position: absolute;
+  right: 120%;
+  top: 10%;
+}
+.right3 {
+  position: absolute;
+  left: 110%;
+  top: 30%;
+  border: 10px double steelblue;
+  border-radius: 15px;
+}
+.pre5 {
+  font-family: "Russo One", sans-serif;
+  text-align: left;
+  position: absolute;
+  top: 70%;
+  line-height: 10px;
+  font-size: 15px;
+}
